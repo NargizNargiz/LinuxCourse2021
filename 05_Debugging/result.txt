@@ -1,0 +1,10 @@
+###current = 5 step = 1 start = 1  end = 12
+###current = 10 step = 1 start = 1  end = 12
+###current = 28 step = 84 start = -100  end = 100
+###current = 29 step = 87 start = -100  end = 100
+###current = 30 step = 90 start = -100  end = 100
+###current = 31 step = 93 start = -100  end = 100
+###current = 32 step = 96 start = -100  end = 100
+###current = 33 step = 99 start = -100  end = 100
+###current = 34 step = 102 start = -100  end = 100
+###current = 35 step = 105 start = -100  end = 100
